@@ -2,6 +2,14 @@
 
 > **Regression task** — Predict apartment prices in Sri Lanka using data scraped from [properties.lk](https://properties.lk/allads?category=apartmentforsale).
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sri-lanka-apartment-price-prediction-9gxrf3yjipawizhc2uz6n.streamlit.app)
+
+## 🌐 Live Demo
+
+🚀 **Try the app now →** [sri-lanka-apartment-price-prediction.streamlit.app](https://sri-lanka-apartment-price-prediction-9gxrf3yjipawizhc2uz6n.streamlit.app)
+
+The app lets you **predict apartment prices in Sri Lanka** by entering details like district, location, size, bedrooms, and amenities. It uses a trained **XGBoost** regression model and provides **SHAP-based explanations** showing exactly which features drive the predicted price up or down.
+
 ---
 
 ## 📁 Project Structure
